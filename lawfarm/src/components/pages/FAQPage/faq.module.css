@@ -1,0 +1,43 @@
+.faqDiv {
+  margin-bottom: 53px;
+  width: 75%;
+  font-family: "inter";
+  color: #ffffff;
+}
+.header {
+  /* text-align: center; */
+  font-size: 54px;
+  font-weight: 600px;
+  margin: 1rem 0px 0rem 0px;
+  /* margin-bottom: 53px; */
+}
+.contentDiv {
+  display: flex;
+}
+.LeftDiv {
+  width: 50%;
+}
+.para {
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 30%;
+}
+.RightDiv {
+  width: 50%;
+}
+.accoBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.accoQ {
+  font-size: 24;
+  font-weight: 600;
+}
+.accoBtn {
+  border-radius: 50%;
+  background: #e3b748;
+  border: none;
+  height: 24px;
+  width: 24px;
+}
