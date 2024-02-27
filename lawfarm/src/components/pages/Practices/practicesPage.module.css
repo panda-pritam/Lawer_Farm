@@ -1,0 +1,42 @@
+.mainBox {
+  margin-bottom: 100px;
+  width: 75%;
+  font-family: "inter";
+  color: #ffffff;
+}
+.girdImg {
+  object-fit: cover;
+  overflow: hidden;
+  height: 342px;
+  width: 100%;
+  border-radius: 14px;
+  opacity: 70%;
+  background: linear-gradient(
+    180deg,
+    #000000 0%,
+    rgba(0, 0, 0, 0) 0.01%,
+    rgba(0, 0, 0, 0.6) 65%,
+    rgba(0, 0, 0, 0.7) 100%
+  );
+  /* position: relative; */
+}
+.girdEle {
+  position: relative;
+}
+
+.imgTextXS8 {
+  position: absolute;
+  font-size: 24px;
+  font-weight: 600;
+  bottom: 4px;
+  left: 33.5%;
+  color: rgba(255, 251, 242, 1);
+}
+.imgTextXS4 {
+  position: absolute;
+  font-size: 24px;
+  font-weight: 600;
+  bottom: 4px;
+  left: 30.5%;
+  color: rgba(255, 251, 242, 1);
+}

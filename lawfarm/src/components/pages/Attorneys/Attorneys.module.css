@@ -1,0 +1,100 @@
+.mainBox {
+  margin-top: 53px;
+  width: 75%;
+  font-family: "inter";
+  color: #ffffff;
+}
+.pageContentBox {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 70px;
+}
+.leftBox {
+  width: 50%;
+  border-right: 1px solid #6a6a6a;
+}
+.rightBox {
+  width: 50%;
+  padding-left: 5rem;
+}
+.line1 {
+  font-family: "inter";
+  font-weight: 600;
+  font-size: 54px;
+  color: #ffffff;
+  margin-top: 1rem;
+}
+.line2Header {
+  font-family: "inter";
+  font-weight: 600;
+  font-size: 32px;
+  color: #ffffff;
+  margin-top: 1rem;
+  /* text-align: center; */
+}
+.line2Para {
+  font-family: "inter";
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+  opacity: 30%;
+  width: 475px;
+}
+.whyHeader {
+  font-family: "inter";
+  font-weight: 500;
+  font-size: 54px;
+  color: #ffffff;
+  text-align: center;
+}
+.cardDiv {
+  display: flex;
+  justify-content: space-between;
+  /* gap: 1rem; */
+  margin-bottom: 80px;
+}
+.cards {
+  padding: 1rem;
+  border: 1.5px solid #ffffff;
+  opacity: 100%;
+  border-radius: 14px;
+  width: 330px;
+}
+.imgDiv {
+  color: #1d1d1d;
+  height: 101px;
+  width: 101px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardHeader {
+  font-size: 24px;
+  font-weight: 600;
+  min-width: 215px;
+}
+.cardText {
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 30%;
+  width: 295px;
+  height: 70px;
+}
+
+.cardBtn {
+  width: 121px;
+  height: 43px;
+  background-color: #e3b748;
+  border-radius: 43px;
+  text-align: center;
+  color: #000000;
+  font-weight: 600;
+  font-size: 14px;
+  border: none;
+}
+#card2 {
+  background-color: #2e2e2e;
+}
